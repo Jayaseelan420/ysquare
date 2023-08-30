@@ -1,0 +1,12 @@
+.bg{
+    background-image:url("mango.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.move{
+    margin-top: 8%;
+}
+
+
